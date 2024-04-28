@@ -1,0 +1,34 @@
+.pd{
+    width: 100%;
+    background-color: #F0d2da;
+}
+.pd h1{
+    text-align: center;
+    font-family: cursive;
+}
+.profiledisplay{
+    margin: 20px 100px;
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    row-gap: 80px;   
+    align-items: center;
+    text-align: center;
+}
+.profiledisplay img{
+    width: 75%;
+}
+.profiledisplay h2{
+    font-size: 1.5rem;
+}
+.profiledisplay button{
+    width: 150px;
+    height: 50px;
+    background-color: #81384b;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
