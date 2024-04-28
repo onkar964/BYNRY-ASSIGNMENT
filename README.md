@@ -14,6 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `Screenshots`
+
+![Screenshot (71)](https://github.com/onkar964/BYNRY-ASSIGNMENT/assets/62983112/687775fa-a573-4f4c-a4a1-455ca4eae5de)
+![Screenshot (73)](https://github.com/onkar964/BYNRY-ASSIGNMENT/assets/62983112/2f346d55-2dad-41ae-89f2-a255c665bed5)
+![Screenshot (72)](https://github.com/onkar964/BYNRY-ASSIGNMENT/assets/62983112/3f733915-a643-483a-af55-0f7fa9b2f257)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
